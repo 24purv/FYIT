@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669435287 source:/home/adk/Desktop/adk23/giraffe/adk23@/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+int x[20];
+int i;
+print("Enter 20 element or number or data");
+for (i=0; i<20; i++);
+scanf ("%d" &x[i]);
+ }
+for (i=0; i<20; i++);
+{
+printf("%d\" x[i]);
+}
+return 0;
+
